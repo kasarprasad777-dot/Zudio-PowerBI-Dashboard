@@ -1,7 +1,4 @@
-# Zudio-PowerBI-Dashboard
-
-## Project Title / Headline
-### 🛍️ Zudio Sales Performance
+# 🛍️ Zudio Sales Performance
 An interactive Power BI dashboard that analyzes sales performance across states, cities, months, categories, and clothing types, helping identify sales patterns and supporting better inventory and stock-planning decisions.
 
 
@@ -29,7 +26,7 @@ The dashboard was built using the following tools and technologies:
 
 
 ##  📂 Data Source
-Source: Zudio Sales Dataset
+**Source:** [📥 View / Download Dataset](https://github.com/kasarprasad777-dot/Zudio-PowerBI-Dashboard/blob/main/Zudio_sales_data.csv)
 
 The initial dataset contained 7,900 rows and 23 columns. For the analysis, 14 relevant columns were selected, including:
 
