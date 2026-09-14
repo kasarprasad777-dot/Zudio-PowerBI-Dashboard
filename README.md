@@ -11,17 +11,17 @@ The dashboard helps users quickly identify high-performing and low-performing ar
 
 The dashboard was built using the following tools and technologies:
 
-📊 Power BI Desktop – Main data visualization platform used to create the interactive dashboard.
+**📊 Power BI Desktop –** Main data visualization platform used to create the interactive dashboard.
 
-📂 Power Query – Used for data cleaning, transformation, and preparation.
+**📂 Power Query –** Used for data cleaning, transformation, and preparation.
 
-🧠 DAX (Data Analysis Expressions) – Used to create calculated measures such as Total Sales, Total Profit, and Margin %.
+**🧠 DAX (Data Analysis Expressions) –** Used to create calculated measures such as Total Sales, Total Profit, and Margin %.
 
-📑 Microsoft Excel – Used for initial data cleaning and preparation.
+**📑 Microsoft Excel –** Used for initial data cleaning and preparation.
 
-📈 Data Visualization – Used charts, KPIs, slicers, and interactive visuals to present business insights.
+**📈 Data Visualization –** Used charts, KPIs, slicers, and interactive visuals to present business insights.
 
-📁 File Format – .pbix for Power BI development and .png for dashboard preview.
+**📁 File Format –** .pbix for Power BI development and .png for dashboard preview.
 
 
 ##  📂 Data Source
@@ -65,21 +65,21 @@ To deliver an interactive visual tool that:
 • Helps users make faster, data-driven business decisions.
 
 ##  📊 Walkthrough of Key Visuals
-• Key KPIs – Displays Total Sales, Total Quantity, Total Orders, Total Profit, and Margin % to provide a quick overview of overall business performance.
+**• Key KPIs –** Displays Total Sales, Total Quantity, Total Orders, Total Profit, and Margin % to provide a quick overview of overall business performance.
 
-• Top 5 Performing States – A visual ranking the top-performing states based on sales, helping identify regions generating higher revenue.
+**• Top 5 Performing States –** A visual ranking the top-performing states based on sales, helping identify regions generating higher revenue.
 
-• Monthly Sales Trend – Shows sales performance across different months to identify monthly patterns and support inventory planning.
+**• Monthly Sales Trend –** Shows sales performance across different months to identify monthly patterns and support inventory planning.
 
-• Sales by Clothing Type – Displays sales/orders across different clothing types to understand product demand.
+**• Sales by Clothing Type –** Displays sales/orders across different clothing types to understand product demand.
 
-• Sales by Category – Provides category-wise analysis to identify the performance of different product categories.
+**• Sales by Category –** Provides category-wise analysis to identify the performance of different product categories.
 
-**• City Performance Analysis** – Compares cities based on Sales, Quantity, and Profit, helping identify high- and low-performing cities.
+**• City Performance Analysis –** Compares cities based on Sales, Quantity, and Profit, helping identify high- and low-performing cities.
 
 **• City & State Slicers –** Interactive filters that allow users to analyze performance for a specific city or state.
 
-• Month Slicer – Allows users to select a particular month and analyze sales by location, category, and clothing type.
+**• Month Slicer –** Allows users to select a particular month and analyze sales by location, category, and clothing type.
 
 ##  💡 Business Impact & Insights
 **• Regional Performance:** Identifies high-performing states and cities, helping understand where sales are strongest.
@@ -98,5 +98,7 @@ To deliver an interactive visual tool that:
 
 
 ## 📊 Dashboard Preview
+
+[📥 Download Power BI Dashboard (.pbix)](./Zudio%20Sales%20Performance.pbix)
 
 ![Zudio Sales Performance Dashboard](./zudio%20dashbord.png)
