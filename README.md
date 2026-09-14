@@ -1,7 +1,6 @@
 # 🛍️ Zudio Sales Performance
 An interactive Power BI dashboard that analyzes sales performance across states, cities, months, categories, and clothing types, helping identify sales patterns and supporting better inventory and stock-planning decisions.
 
-
 ##  📌 Short Description / Purpose
 The Zudio Sales Performance Dashboard is a Power BI report developed to understand sales performance across different geographical locations, time periods, product categories, and clothing types.
 
@@ -96,3 +95,8 @@ To deliver an interactive visual tool that:
 **• Interactive Analysis:** City, State, and Month slicers allow users to drill into specific areas and quickly understand where, when, and what products are selling.
 
 **• Inventory Support:** The overall analysis can help the business plan stock based on sales patterns across locations, months, categories, and clothing types.
+
+
+## 📊 Dashboard Preview
+
+![Zudio Sales Performance Dashboard](./zudio%20dashbord.png)
